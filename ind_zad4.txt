@@ -1,0 +1,9 @@
+echo off
+cd Minkovsky
+cd Ilya
+rd Alexsandrovich
+cd..
+rd Ilya
+cd..
+rd Minkovsky
+pause

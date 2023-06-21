@@ -1,0 +1,7 @@
+echo off
+cd Minkovsky
+echo>08082002.txt
+cd Ilya
+cd Alexsandrovich
+echo>#2.txt
+pause
